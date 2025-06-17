@@ -3,5 +3,5 @@ This project presents an optimized hardware implementation of the AES S-Box usin
 
 
 
-
+#Low Power 
 ![Screenshot 2025-03-24 111811](https://github.com/user-attachments/assets/1711b57c-4fa8-4389-96c6-44e7d9090c7a)
